@@ -6,13 +6,10 @@ DOMAIN-KEYWORD,aistudio
 DOMAIN,bard.google.com
 DOMAIN-SUFFIX,you.com
 DOMAIN,chatgpt.livekit.cloud
-DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,cdn.cloudflare.net
-DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
@@ -35,7 +32,7 @@ DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,sapphire.api.microsoftapp.net
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,chat.openai.com
 DOMAIN,gemini.google.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
