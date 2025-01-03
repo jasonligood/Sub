@@ -92,6 +92,9 @@ DOMAIN-SUFFIX,auroramedia.vip
 DOMAIN-SUFFIX,crond.dev
 DOMAIN-SUFFIX,lyrebirdemby.com
 DOMAIN-SUFFIX,saturday.video
+DOMAIN-SUFFIX,temby856.285286.xyz
+DOMAIN-SUFFIX,tdck.fun
+DOMAIN-SUFFIX,nomaba.top
 DOMAIN-SUFFIX,tanhuatv.site
 DOMAIN-SUFFIX,mcjoker.xyz
 DOMAIN-SUFFIX,alien666.me
@@ -100,3 +103,5 @@ IP-CIDR,202.61.255.248/32,no-resolve
 IP-CIDR,188.172.228.49/32,no-resolve
 IP-CIDR,83.147.61.152/32,no-resolve
 IP-CIDR,104.160.170.190/32,no-resolve
+IP-CIDR,154.40.33.88/32,no-resolve
+IP-CIDR,38.150.0.75/32,no-resolve
