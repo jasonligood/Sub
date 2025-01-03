@@ -1,7 +1,7 @@
 # Emby Direct
 
 DOMAIN-SUFFIX,temby856.285286.xyz
-DOMAIN-SUFFIX,tdck.fun
+# DOMAIN-SUFFIX,tdck.fun
 DOMAIN-SUFFIX,nomaba.top
 DOMAIN-SUFFIX,lyrebirdemby.com
 IP-CIDR,154.40.33.88/32,no-resolve
